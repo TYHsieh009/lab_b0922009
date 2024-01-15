@@ -35,7 +35,7 @@
 
     <link name="chassis">
         <visual>
-            <<origin xyz="0.107 0 0.025"/>
+            <origin xyz="0.107 0 0.025"/>
             <geometry>
                 <box size="0.214 0.15 0.05"/>
             </geometry>
